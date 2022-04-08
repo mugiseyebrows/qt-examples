@@ -1,0 +1,18 @@
+[submodule "draw-over-video"]
+	path = draw-over-video
+	url = https://github.com/mugiseyebrows/draw-over-video.git
+[submodule "upsert"]
+	path = upsert
+	url = https://github.com/mugiseyebrows/upsert.git
+[submodule "app-and-library"]
+	path = app-and-library
+	url = https://github.com/mugiseyebrows/app-and-library.git
+[submodule "button-popup"]
+	path = button-popup
+	url = https://github.com/mugiseyebrows/button-popup.git
+[submodule "textedit-spoiler"]
+	path = textedit-spoiler
+	url = https://github.com/mugiseyebrows/textedit-spoiler.git
+[submodule "rounded-label"]
+	path = rounded-label
+	url = https://github.com/mugiseyebrows/rounded-label.git
